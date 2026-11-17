@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm Kithuni Perera</h1>
 
 <h3 align="center">
-  Artificial Intelligence Undergraduate | AI/ML Enthusiast | Researcher
+  Artificial Intelligence Undergraduate | AI/ML Enthusiast 
 </h3>
 
 <p align="center">
